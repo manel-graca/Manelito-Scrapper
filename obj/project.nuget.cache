@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f2r4u0VwLR2FuiCdHGfxno0G7lSgF/GrqoROPQaUTZ+0Hud7AE3RDHR/SGLxf7TFjaLntBKRynembq5QJ935jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MANEL\\Desktop\\C# Projects\\ManelitoScrapper\\ManelitoScrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MANEL\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
